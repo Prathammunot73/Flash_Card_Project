@@ -2,8 +2,6 @@
 
 A simple flash card application built using Python and Tkinter to help users learn French vocabulary.
 
-Built as part of the **100 Days of Code: The Complete Python Pro Bootcamp**.
-
 ## ✨ Features
 
 * Displays random French words.
