@@ -50,6 +50,10 @@ python main.py
 
 * Building desktop GUI applications with Tkinter
 * Reading and writing CSV files using Pandas
+
+## Attribution
+
+This project was developed as part of my learning journey through the **100 Days of Code: The Complete Python Pro Bootcamp** by Angela Yu.
 * Working with timers using `after()`
 * Managing application state
 * File handling and data persistence
